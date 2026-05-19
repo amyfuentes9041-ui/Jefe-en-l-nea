@@ -1,0 +1,5 @@
+id_mensaje,remitente,destinatario,asunto,cuerpo,fecha_hora,leido
+MSG_1,Empleado 1,Supervisor 1,[Normal] Incidencia de Vendedor,"Hola muy buenas tardes me gustaria solicitar permiso para faltar el dia 28 de Mayo ya que tengo consulta medica, gracias por la atención.",2026-05-16 17:14:26,False
+MSG_2,Empleado 1,Gerente,Respuesta a mi incidente,"Me gustaria saber su respuesta lo mas pronto posible, gracias",2026-05-16 17:15:24,False
+MSG_3,Empleado 2,Supervisor 1,Problema con codigo de barra,Necesito ayuda para este objeto,2026-05-16 17:18:53,False
+MSG_4,Gerente,Administrador,Reporte de ventas de este mes,Necesito que firme los documentos de este mes,2026-05-16 17:32:40,False

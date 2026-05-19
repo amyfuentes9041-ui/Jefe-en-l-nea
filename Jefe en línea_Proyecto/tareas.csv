@@ -1,0 +1,25 @@
+id_tarea,titulo,descripcion,prioridad,estado,asignado_a,hora_inicio,hora_fin,creada_por,fecha
+T_1,Acomodo de anaqueles,Organizar las playeras básicas por color y talla en la entrada.,3,Completado,Empleado 1,09:00,10:30,Gerente,2026-05-25
+T_2,Limpieza de vitrinas,Limpiar cristales de la fachada principal y mostradores.,3,En curso,Empleado 4,09:00,10:00,Gerente,2026-05-25
+T_3,Apertura de caja 1,Registrar fondo de caja inicial y preparar rollos de tickets.,5,En curso,Empleado 2,09:45,10:00,Gerente,2026-05-25
+T_4,Recepción de calzado,Desempacar los tenis nuevos y verificar tallas contra nota.,4,Pendiente,Empleado 3,10:30,12:30,Gerente,2026-05-25
+T_5,Atención en pasillos,Apoyar a los clientes en la zona de vestidos y probadores.,4,Pendiente,Empleado 1,11:00,14:00,Gerente,2026-05-25
+T_6,Recolección de ganchos,Retirar ganchos vacíos de los racks y ordenarlos en bodega.,2,En curso,Empleado 1,16:00,17:00,Gerente,2026-05-25
+T_7,Frenteo nocturno,Doblar la ropa desarreglada antes del cierre de tienda.,3,Pendiente,Empleado 4,19:30,20:00,Gerente,2026-05-25
+T_8,Acomodo de bodega,Clasificar los pantalones nuevos que llegaron ayer por modelo.,3,Completado,Empleado 3,09:00,11:00,Gerente,2026-05-26
+T_9,Limpieza de probadores,"Desinfectar bancas, limpiar espejos y pisos de probadores.",4,Completado,Empleado 4,09:15,10:15,Gerente,2026-05-26
+T_10,Cobro de mercancía,Operar la caja principal durante las horas de alta afluencia.,5,Completado,Empleado 2,12:00,15:00,Gerente,2026-05-26
+T_11,Cambio de maniquíes,Vestir a los maniquíes del aparador con la nueva colección.,4,Pendiente,Empleado 1,15:30,17:00,Gerente,2026-05-26
+T_12,Revisión de alarmas,Verificar que toda la ropa de alto costo tenga broche de seguridad.,4,Pendiente,Empleado 4,17:00,18:30,Gerente,2026-05-26
+T_13,Corte de caja parcial,Realizar arqueo intermedio para retiro de efectivo excedente.,4,Pendiente,Empleado 2,14:30,14:50,Gerente,2026-05-27
+T_14,Vaporizado de prendas,Planchar a vapor los trajes y vestidos arrugados en exhibición.,3,Completado,Empleado 1,10:00,12:00,Gerente,2026-05-27
+T_15,Inventario de accesorios,"Contar gorras, cinturones y calcetines en el sistema.",3,Pendiente,Empleado 3,11:00,13:00,Gerente,2026-05-27
+T_16,Atención en probadores,Controlar el acceso y recibir prendas no seleccionadas.,3,En curso,Empleado 1,14:00,17:00,Gerente,2026-05-27
+T_17,Surtido de piso,Traer prendas faltantes desde bodega para rellenar los racks.,4,Pendiente,Empleado 3,16:30,18:00,Gerente,2026-05-27
+T_18,Mantenimiento básico,Vaciar botes de basura y limpiar la estación de cobro.,2,Pendiente,Empleado 4,19:00,19:30,Gerente,2026-05-27
+T_19,Etiquetado de precios,Colocar etiquetas de descuento a las prendas seleccionadas.,4,En curso,Empleado 3,9:00,11:30,Gerente,2026-05-28
+T_20,Atención al cliente,Brindar asesoría de imagen y tallas en la zona de caballeros.,3,Pendiente,Empleado 1,10:30,13:30,Gerente,2026-05-28
+T_21,Reacomodo de jeans,"Organizar la mesa de pantalones por cortes (Slim, Mom, Wide Leg).",3,Pendiente,Empleado 1,12:00,13:30,Gerente,2026-05-28
+T_22,Cierre de almacén,Validar que las puertas queden cerradas y pasillos despejados.,4,Pendiente,Empleado 3,19:00,20:00,Gerente,2026-05-30
+T_23,Cierre de almacén,Validar que las puertas queden cerradas y pasillos despejados.,4,Pendiente,Empleado 2,19:00,20:00,Gerente,2026-05-30
+T_24,Limpieza,Limpiar pisos,1,Pendiente,Empleado 4,1:00,3:00,Gerente,2026-05-15

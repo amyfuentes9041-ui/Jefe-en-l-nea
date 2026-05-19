@@ -1,0 +1,148 @@
+id_venta,vendedor,id_producto,nombre_producto,cantidad,subtotal,total,fecha_horaVNT_1,Empleado 1,INV_1,Pantalon,5,750.0,750.0,2026-05-03 21:09:14
+VNT_1,Empleado 1,INV_17,Chamarra rompevientos impermeable,1,679.0,1975.0,2026-05-16 17:10:38
+VNT_1,Empleado 1,INV_24,Pantalón de vestir tipo Cargo,1,549.0,1975.0,2026-05-16 17:10:38
+VNT_1,Empleado 1,INV_2,Playera básica cuello redondo negra,2,498.0,1975.0,2026-05-16 17:10:38
+VNT_1,Empleado 1,INV_50,Sandalias playeras de descanso,1,249.0,1975.0,2026-05-16 17:10:38
+VNT_2,Empleado 1,INV_50,Sandalias playeras de descanso,1,249.0,1925.0,2026-05-16 17:11:54
+VNT_2,Empleado 1,INV_1,Playera básica cuello redondo blanca,1,249.0,1925.0,2026-05-16 17:11:54
+VNT_2,Empleado 1,INV_9,Camisa de franela a cuadros,1,479.0,1925.0,2026-05-16 17:11:54
+VNT_2,Empleado 1,INV_13,Suéter de punto ligero,1,449.0,1925.0,2026-05-16 17:11:54
+VNT_2,Empleado 1,INV_34,Vestido corto casual de verano,1,499.0,1925.0,2026-05-16 17:11:54
+VNT_3,Empleado 1,INV_49,Tenis casuales de lona blancos,1,749.0,749.0,2026-05-16 17:12:08
+VNT_4,Empleado 2,INV_9,Camisa de franela a cuadros,1,479.0,1307.0,2026-05-16 17:17:06
+VNT_4,Empleado 2,INV_12,Sudadera Crewneck sin capucha,1,499.0,1307.0,2026-05-16 17:17:06
+VNT_4,Empleado 2,INV_6,Blusa de satín de tirantes,1,329.0,1307.0,2026-05-16 17:17:06
+VNT_5,Empleado 2,INV_33,Falda midi plisada,1,469.0,2146.0,2026-05-16 17:17:30
+VNT_5,Empleado 2,INV_21,Jeans corte Slim para hombre,1,699.0,2146.0,2026-05-16 17:17:30
+VNT_5,Empleado 2,INV_23,Jeans Wide Leg holgados,1,679.0,2146.0,2026-05-16 17:17:30
+VNT_5,Empleado 2,INV_27,Leggings deportivos de alta compresión,1,299.0,2146.0,2026-05-16 17:17:30
+VNT_6,Empleado 2,INV_44,Bufanda larga de invierno gris,1,229.0,1505.0,2026-05-16 17:17:50
+VNT_6,Empleado 2,INV_38,Traje de baño de una pieza,1,399.0,1505.0,2026-05-16 17:17:50
+VNT_6,Empleado 2,INV_40,Calcetines deportivos blancos (Pack x3),1,149.0,1505.0,2026-05-16 17:17:50
+VNT_6,Empleado 2,INV_34,Vestido corto casual de verano,1,499.0,1505.0,2026-05-16 17:17:50
+VNT_6,Empleado 2,INV_41,Gorra de béisbol de lona ajustable,1,229.0,1505.0,2026-05-16 17:17:50
+VNT_7,Empleado 1,INV_4,Crop top acanalado negro,1,199.0,3392.0,2026-05-16 17:23:45
+VNT_7,Empleado 1,INV_11,Sudadera con capucha (Hoodie) negra,2,1098.0,3392.0,2026-05-16 17:23:45
+VNT_7,Empleado 1,INV_2,Playera básica cuello redondo negra,1,249.0,3392.0,2026-05-16 17:23:45
+VNT_7,Empleado 1,INV_10,Sudadera con capucha (Hoodie) gris,1,549.0,3392.0,2026-05-16 17:23:45
+VNT_7,Empleado 1,INV_1,Playera básica cuello redondo blanca,1,249.0,3392.0,2026-05-16 17:23:45
+VNT_7,Empleado 1,INV_12,Sudadera Crewneck sin capucha,1,499.0,3392.0,2026-05-16 17:23:45
+VNT_7,Empleado 1,INV_8,Camisa de mezclilla clásica,1,549.0,3392.0,2026-05-16 17:23:45
+VNT_8,Empleado 1,INV_4,Crop top acanalado negro,1,199.0,4286.0,2026-05-16 17:24:17
+VNT_8,Empleado 1,INV_1,Playera básica cuello redondo blanca,6,1494.0,4286.0,2026-05-16 17:24:17
+VNT_8,Empleado 1,INV_12,Sudadera Crewneck sin capucha,1,499.0,4286.0,2026-05-16 17:24:17
+VNT_8,Empleado 1,INV_40,Calcetines deportivos blancos (Pack x3),1,149.0,4286.0,2026-05-16 17:24:17
+VNT_8,Empleado 1,INV_32,Falda corta de mezclilla,1,399.0,4286.0,2026-05-16 17:24:17
+VNT_8,Empleado 1,INV_39,Short corto para playa / natación,1,299.0,4286.0,2026-05-16 17:24:17
+VNT_8,Empleado 1,INV_36,Vestido ajustado de punto midi,1,549.0,4286.0,2026-05-16 17:24:17
+VNT_8,Empleado 1,INV_41,Gorra de béisbol de lona ajustable,1,229.0,4286.0,2026-05-16 17:24:17
+VNT_8,Empleado 1,INV_33,Falda midi plisada,1,469.0,4286.0,2026-05-16 17:24:17
+VNT_9,Empleado 1,INV_33,Falda midi plisada,4,1876.0,1876.0,2026-05-16 17:24:25
+VNT_10,Empleado 2,INV_26,Pantalón de lino pierna ancha,1,529.0,3713.0,2026-05-16 17:25:36
+VNT_10,Empleado 2,INV_37,Enterizo (Jumpsuit) casual largo,1,679.0,3713.0,2026-05-16 17:25:36
+VNT_10,Empleado 2,INV_35,Vestido largo de noche / cóctel,1,999.0,3713.0,2026-05-16 17:25:36
+VNT_10,Empleado 2,INV_28,Pants de una sola pieza (Joggers),1,429.0,3713.0,2026-05-16 17:25:36
+VNT_10,Empleado 2,INV_38,Traje de baño de una pieza,1,399.0,3713.0,2026-05-16 17:25:36
+VNT_10,Empleado 2,INV_50,Sandalias playeras de descanso,1,249.0,3713.0,2026-05-16 17:25:36
+VNT_10,Empleado 2,INV_46,Pijama de dos piezas de algodón,1,429.0,3713.0,2026-05-16 17:25:36
+VNT_11,Empleado 2,INV_43,Cinturón de piel sintética negra,1,199.0,876.0,2026-05-16 17:25:55
+VNT_11,Empleado 2,INV_44,Bufanda larga de invierno gris,1,229.0,876.0,2026-05-16 17:25:55
+VNT_11,Empleado 2,INV_40,Calcetines deportivos blancos (Pack x3),1,149.0,876.0,2026-05-16 17:25:55
+VNT_11,Empleado 2,INV_39,Short corto para playa / natación,1,299.0,876.0,2026-05-16 17:25:55
+VNT_12,Empleado 2,INV_25,Pantalón Chino casual,1,599.0,5221.0,2026-05-16 17:26:20
+VNT_12,Empleado 2,INV_23,Jeans Wide Leg holgados,1,679.0,5221.0,2026-05-16 17:26:20
+VNT_12,Empleado 2,INV_21,Jeans corte Slim para hombre,2,1398.0,5221.0,2026-05-16 17:26:20
+VNT_12,Empleado 2,INV_29,Shorts de mezclilla rotos,1,389.0,5221.0,2026-05-16 17:26:20
+VNT_12,Empleado 2,INV_24,Pantalón de vestir tipo Cargo,1,549.0,5221.0,2026-05-16 17:26:20
+VNT_12,Empleado 2,INV_26,Pantalón de lino pierna ancha,1,529.0,5221.0,2026-05-16 17:26:20
+VNT_12,Empleado 2,INV_22,Jeans Mom corte alto para mujer,1,649.0,5221.0,2026-05-16 17:26:20
+VNT_12,Empleado 2,INV_28,Pants de una sola pieza (Joggers),1,429.0,5221.0,2026-05-16 17:26:20
+VNT_13,Empleado 2,INV_1,Playera básica cuello redondo blanca,16,3984.0,3984.0,2026-05-16 17:26:32
+VNT_14,Empleado 2,INV_4,Crop top acanalado negro,1,199.0,5698.0,2026-05-16 17:26:50
+VNT_14,Empleado 2,INV_6,Blusa de satín de tirantes,1,329.0,5698.0,2026-05-16 17:26:50
+VNT_14,Empleado 2,INV_7,Camisa de lino manga larga,1,599.0,5698.0,2026-05-16 17:26:50
+VNT_14,Empleado 2,INV_8,Camisa de mezclilla clásica,1,549.0,5698.0,2026-05-16 17:26:50
+VNT_14,Empleado 2,INV_9,Camisa de franela a cuadros,1,479.0,5698.0,2026-05-16 17:26:50
+VNT_14,Empleado 2,INV_10,Sudadera con capucha (Hoodie) gris,2,1098.0,5698.0,2026-05-16 17:26:50
+VNT_14,Empleado 2,INV_11,Sudadera con capucha (Hoodie) negra,1,549.0,5698.0,2026-05-16 17:26:50
+VNT_14,Empleado 2,INV_12,Sudadera Crewneck sin capucha,2,998.0,5698.0,2026-05-16 17:26:50
+VNT_14,Empleado 2,INV_13,Suéter de punto ligero,2,898.0,5698.0,2026-05-16 17:26:50
+VNT_15,Empleado 1,INV_6,Blusa de satín de tirantes,3,987.0,4978.0,2026-05-16 17:29:27
+VNT_15,Empleado 1,INV_2,Playera básica cuello redondo negra,1,249.0,4978.0,2026-05-16 17:29:27
+VNT_15,Empleado 1,INV_10,Sudadera con capucha (Hoodie) gris,1,549.0,4978.0,2026-05-16 17:29:27
+VNT_15,Empleado 1,INV_4,Crop top acanalado negro,1,199.0,4978.0,2026-05-16 17:29:27
+VNT_15,Empleado 1,INV_12,Sudadera Crewneck sin capucha,2,998.0,4978.0,2026-05-16 17:29:27
+VNT_15,Empleado 1,INV_30,Shorts cargo casuales,1,399.0,4978.0,2026-05-16 17:29:27
+VNT_15,Empleado 1,INV_29,Shorts de mezclilla rotos,1,389.0,4978.0,2026-05-16 17:29:27
+VNT_15,Empleado 1,INV_26,Pantalón de lino pierna ancha,1,529.0,4978.0,2026-05-16 17:29:27
+VNT_15,Empleado 1,INV_23,Jeans Wide Leg holgados,1,679.0,4978.0,2026-05-16 17:29:27
+VNT_16,Empleado 1,INV_21,Jeans corte Slim para hombre,1,699.0,5409.0,2026-05-16 17:29:49
+VNT_16,Empleado 1,INV_17,Chamarra rompevientos impermeable,1,679.0,5409.0,2026-05-16 17:29:49
+VNT_16,Empleado 1,INV_13,Suéter de punto ligero,1,449.0,5409.0,2026-05-16 17:29:49
+VNT_16,Empleado 1,INV_10,Sudadera con capucha (Hoodie) gris,1,549.0,5409.0,2026-05-16 17:29:49
+VNT_16,Empleado 1,INV_6,Blusa de satín de tirantes,1,329.0,5409.0,2026-05-16 17:29:49
+VNT_16,Empleado 1,INV_3,Playera oversize con estampado gráfico,1,349.0,5409.0,2026-05-16 17:29:49
+VNT_16,Empleado 1,INV_1,Playera básica cuello redondo blanca,1,249.0,5409.0,2026-05-16 17:29:49
+VNT_16,Empleado 1,INV_28,Pants de una sola pieza (Joggers),2,858.0,5409.0,2026-05-16 17:29:49
+VNT_16,Empleado 1,INV_24,Pantalón de vestir tipo Cargo,1,549.0,5409.0,2026-05-16 17:29:49
+VNT_16,Empleado 1,INV_20,Jeans corte Straight para hombre,1,699.0,5409.0,2026-05-16 17:29:49
+VNT_17,Empleado 1,INV_48,Camiseta interior de tirantes blanca,1,159.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_50,Sandalias playeras de descanso,1,249.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_49,Tenis casuales de lona blancos,1,749.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_47,Conjunto deportivo (Top + Leggings),1,599.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_46,Pijama de dos piezas de algodón,1,429.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_45,Pijama de dos piezas de satín,1,499.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_44,Bufanda larga de invierno gris,1,229.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_43,Cinturón de piel sintética negra,1,199.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_42,Gorro de lana tejido para frío,1,179.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_41,Gorra de béisbol de lona ajustable,1,229.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_40,Calcetines deportivos blancos (Pack x3),1,149.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_39,Short corto para playa / natación,1,299.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_38,Traje de baño de una pieza,1,399.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_37,Enterizo (Jumpsuit) casual largo,1,679.0,5595.0,2026-05-16 17:30:22
+VNT_17,Empleado 1,INV_36,Vestido ajustado de punto midi,1,549.0,5595.0,2026-05-16 17:30:22
+VNT_18,Empleado 1,INV_36,Vestido ajustado de punto midi,1,549.0,3666.0,2026-05-16 17:31:33
+VNT_18,Empleado 1,INV_40,Calcetines deportivos blancos (Pack x3),1,149.0,3666.0,2026-05-16 17:31:33
+VNT_18,Empleado 1,INV_44,Bufanda larga de invierno gris,1,229.0,3666.0,2026-05-16 17:31:33
+VNT_18,Empleado 1,INV_50,Sandalias playeras de descanso,11,2739.0,3666.0,2026-05-16 17:31:33
+VNT_19,Empleado 2,INV_6,Blusa de satín de tirantes,1,329.0,5898.0,2026-05-16 17:43:13
+VNT_19,Empleado 2,INV_3,Playera oversize con estampado gráfico,1,349.0,5898.0,2026-05-16 17:43:13
+VNT_19,Empleado 2,INV_4,Crop top acanalado negro,1,199.0,5898.0,2026-05-16 17:43:13
+VNT_19,Empleado 2,INV_7,Camisa de lino manga larga,2,1198.0,5898.0,2026-05-16 17:43:13
+VNT_19,Empleado 2,INV_10,Sudadera con capucha (Hoodie) gris,2,1098.0,5898.0,2026-05-16 17:43:13
+VNT_19,Empleado 2,INV_13,Suéter de punto ligero,2,898.0,5898.0,2026-05-16 17:43:13
+VNT_19,Empleado 2,INV_17,Chamarra rompevientos impermeable,1,679.0,5898.0,2026-05-16 17:43:13
+VNT_19,Empleado 2,INV_16,Chamarra biker de piel sintética,1,949.0,5898.0,2026-05-16 17:43:13
+VNT_19,Empleado 2,INV_5,Crop top acanalado blanco,1,199.0,5898.0,2026-05-16 17:43:13
+VNT_20,Empleado 2,INV_33,Falda midi plisada,3,1407.0,1407.0,2026-05-16 17:43:29
+VNT_21,Empleado 2,INV_26,Pantalón de lino pierna ancha,5,2645.0,2645.0,2026-05-16 17:43:38
+VNT_22,Empleado 1,INV_4,Crop top acanalado negro,1,199.0,199.0,2026-05-16 17:50:09
+VNT_23,Empleado 1,INV_6,Blusa de satín de tirantes,1,329.0,1127.0,2026-05-16 17:51:07
+VNT_23,Empleado 1,INV_10,Sudadera con capucha (Hoodie) gris,1,549.0,1127.0,2026-05-16 17:51:07
+VNT_23,Empleado 1,INV_1,Playera básica cuello redondo blanca,1,249.0,1127.0,2026-05-16 17:51:07
+VNT_24,Empleado 2,INV_4,Crop top acanalado negro,2,398.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_7,Camisa de lino manga larga,2,1198.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_9,Camisa de franela a cuadros,3,1437.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_10,Sudadera con capucha (Hoodie) gris,2,1098.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_11,Sudadera con capucha (Hoodie) negra,2,1098.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_12,Sudadera Crewneck sin capucha,2,998.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_13,Suéter de punto ligero,3,1347.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_14,Cárdigan largo tejido,3,1737.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_15,Chamarra de mezclilla clásica,3,2397.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_16,Chamarra biker de piel sintética,2,1898.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_17,Chamarra rompevientos impermeable,2,1358.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_18,Saco Blazer casual estructurado,2,1698.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_19,Chaleco acolchado para invierno,3,1887.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_20,Jeans corte Straight para hombre,2,1398.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_21,Jeans corte Slim para hombre,3,2097.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_22,Jeans Mom corte alto para mujer,2,1298.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_23,Jeans Wide Leg holgados,2,1358.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_24,Pantalón de vestir tipo Cargo,2,1098.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_25,Pantalón Chino casual,2,1198.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_26,Pantalón de lino pierna ancha,3,1587.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_27,Leggings deportivos de alta compresión,1,299.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_8,Camisa de mezclilla clásica,1,549.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_6,Blusa de satín de tirantes,1,329.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_3,Playera oversize con estampado gráfico,1,349.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_2,Playera básica cuello redondo negra,1,249.0,35089.0,2026-05-16 18:12:25
+VNT_24,Empleado 2,INV_1,Playera básica cuello redondo blanca,19,4731.0,35089.0,2026-05-16 18:12:25

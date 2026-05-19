@@ -1,0 +1,40 @@
+id_trans,monto,categoria,metodo_pago,descripcion,fecha_hora,registrado_por,anulado
+MOV_1,750.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-03 21:09:14,Empleado 1,True
+MOV_2,-15000.0,Gasto Fijo,Transferencia,Renta mensual del local,2026-05-16 16:57:07,Administrador,False
+MOV_3,-2400.0,Gasto Fijo,Tarjeta,Recibo de luz (CFE) - Iluminación y racks,2026-05-16 16:57:40,Administrador,False
+MOV_4,-450.0,Gasto Fijo,Transferencia,Servicio de agua comercial,2026-05-16 16:58:04,Administrador,False
+MOV_5,-600.0,Gasto Fijo,Tarjeta,Paquete de internet simétrico y telefonía para TPV,2026-05-16 16:58:23,Administrador,False
+MOV_6,-3500.0,Gasto Fijo,Transferencia,Servicio de seguridad privada y monitoreo de alarmas,2026-05-16 16:58:44,Administrador,False
+MOV_7,-8000.0,Sueldos,Transferencia,Sueldo Mensual - Alejandro Torres Lara (Gerente),2026-05-16 17:00:46,Administrador,False
+MOV_8,-5500.0,Sueldos,Transferencia,Sueldo Mensual - Camila Rocha Palacios (Supervisor 1 - Cajas),2026-05-16 17:01:05,Administrador,False
+MOV_9,-5200.0,Sueldos,Transferencia,Sueldo Mensual - Diego Peralta Osuna (Supervisor 2 - Piso de venta),2026-05-16 17:01:35,Administrador,False
+MOV_10,-5200.0,Sueldos,Transferencia,Sueldo Mensual - Gabriel Delgado Ortiz (Supervisor 3 - Almacén),2026-05-16 17:01:51,Administrador,False
+MOV_11,-4200.0,Sueldos,Transferencia,Sueldo Mensual - Natalia Solís Becerra (Empleado 1 - Vendedor),2026-05-16 17:02:07,Administrador,False
+MOV_12,-4500.0,Sueldos,Transferencia,Sueldo Mensual - Ariel Salgado Méndez (Empleado 2 - Cajero),2026-05-16 17:02:30,Administrador,False
+MOV_13,-4200.0,Sueldos,Transferencia,Sueldo Mensual - Carlos Mendoza Fuentes (Empleado 3 - Almacenista),2026-05-16 17:02:43,Administrador,False
+MOV_14,-3800.0,Sueldos,Transferencia,Sueldo Mensual - Diego Peralta Osuna (Empleado 4 - Limpieza),2026-05-16 17:02:56,Administrador,False
+MOV_15,1975.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:10:38,Empleado 1,False
+MOV_16,1925.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:11:55,Empleado 1,False
+MOV_17,749.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:12:08,Empleado 1,False
+MOV_18,1307.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:17:06,Empleado 2,False
+MOV_19,2146.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:17:30,Empleado 2,False
+MOV_20,1505.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:17:50,Empleado 2,False
+MOV_21,3392.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:23:45,Empleado 1,False
+MOV_22,4286.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:24:17,Empleado 1,False
+MOV_23,1876.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:24:25,Empleado 1,False
+MOV_24,3713.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:25:36,Empleado 2,False
+MOV_25,876.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:25:55,Empleado 2,False
+MOV_26,5221.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:26:20,Empleado 2,False
+MOV_27,3984.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:26:32,Empleado 2,False
+MOV_28,5698.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:26:50,Empleado 2,False
+MOV_29,4978.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:29:27,Empleado 1,False
+MOV_30,5409.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:29:49,Empleado 1,False
+MOV_31,5595.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:30:22,Empleado 1,False
+MOV_32,3666.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:31:33,Empleado 1,False
+MOV_33,5898.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:43:13,Empleado 2,False
+MOV_34,1407.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:43:29,Empleado 2,False
+MOV_35,2645.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 17:43:38,Empleado 2,False
+MOV_36,199.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:50:09,Empleado 1,False
+MOV_37,1127.0,Venta,Efectivo,Venta registrada por Empleado 1,2026-05-16 17:51:07,Empleado 1,False
+MOV_38,-10000.0,Insumos,Transferencia,Mercancia,2026-05-16 17:52:13,Administrador,False
+MOV_39,35089.0,Venta,Efectivo,Venta registrada por Empleado 2,2026-05-16 18:12:25,Empleado 2,False

@@ -1,0 +1,67 @@
+id_producto,nombre,categoria,costo_compra,precio_venta,cantidad_stock,punto_reorden
+INV_1,Playera básica cuello redondo blanca,Insumos,120.0,249.0,5,8
+INV_2,Playera básica cuello redondo negra,Insumos,120.0,249.0,45,8
+INV_3,Playera oversize con estampado gráfico,Insumos,160.0,349.0,32,5
+INV_4,Crop top acanalado negro,Insumos,90.0,199.0,27,6
+INV_5,Crop top acanalado blanco,Insumos,90.0,199.0,34,6
+INV_6,Blusa de satín de tirantes,Insumos,150.0,329.0,21,4
+INV_7,Camisa de lino manga larga,Insumos,280.0,599.0,35,3
+INV_8,Camisa de mezclilla clásica,Insumos,250.0,549.0,37,3
+INV_9,Camisa de franela a cuadros,Insumos,220.0,479.0,19,4
+INV_10,Sudadera con capucha (Hoodie) gris,Insumos,260.0,549.0,20,5
+INV_11,Sudadera con capucha (Hoodie) negra,Insumos,260.0,549.0,25,5
+INV_12,Sudadera Crewneck sin capucha,Insumos,240.0,499.0,16,4
+INV_13,Suéter de punto ligero,Insumos,210.0,449.0,11,3
+INV_14,Cárdigan largo tejido,Insumos,270.0,579.0,22,3
+INV_15,Chamarra de mezclilla clásica,Insumos,380.0,799.0,32,3
+INV_16,Chamarra biker de piel sintética,Insumos,450.0,949.0,12,2
+INV_17,Chamarra rompevientos impermeable,Insumos,320.0,679.0,10,3
+INV_18,Saco Blazer casual estructurado,Insumos,400.0,849.0,8,2
+INV_19,Chaleco acolchado para invierno,Insumos,300.0,629.0,7,3
+INV_20,Jeans corte Straight para hombre,Insumos,320.0,699.0,12,5
+INV_21,Jeans corte Slim para hombre,Insumos,320.0,699.0,8,5
+INV_22,Jeans Mom corte alto para mujer,Insumos,300.0,649.0,17,6
+INV_23,Jeans Wide Leg holgados,Insumos,310.0,679.0,13,5
+INV_24,Pantalón de vestir tipo Cargo,Insumos,260.0,549.0,9,4
+INV_25,Pantalón Chino casual,Insumos,280.0,599.0,9,4
+INV_26,Pantalón de lino pierna ancha,Insumos,250.0,529.0,2,3
+INV_27,Leggings deportivos de alta compresión,Insumos,140.0,299.0,20,7
+INV_28,Pants de una sola pieza (Joggers),Insumos,200.0,429.0,12,5
+INV_29,Shorts de mezclilla rotos,Insumos,180.0,389.0,13,4
+INV_30,Shorts cargo casuales,Insumos,190.0,399.0,11,4
+INV_31,Bóxer clásico de algodón (Pack x3),Insumos,130.0,279.0,20,6
+INV_32,Falda corta de mezclilla,Insumos,190.0,399.0,11,3
+INV_33,Falda midi plisada,Insumos,220.0,469.0,1,3
+INV_34,Vestido corto casual de verano,Insumos,240.0,499.0,10,3
+INV_35,Vestido largo de noche / cóctel,Insumos,480.0,999.0,9,2
+INV_36,Vestido ajustado de punto midi,Insumos,260.0,549.0,7,3
+INV_37,Enterizo (Jumpsuit) casual largo,Insumos,320.0,679.0,28,2
+INV_38,Traje de baño de una pieza,Insumos,180.0,399.0,22,3
+INV_39,Short corto para playa / natación,Insumos,140.0,299.0,22,4
+INV_40,Calcetines deportivos blancos (Pack x3),Insumos,60.0,149.0,25,10
+INV_41,Gorra de béisbol de lona ajustable,Insumos,90.0,229.0,12,4
+INV_42,Gorro de lana tejido para frío,Insumos,70.0,179.0,24,3
+INV_43,Cinturón de piel sintética negra,Insumos,80.0,199.0,13,4
+INV_44,Bufanda larga de invierno gris,Insumos,100.0,229.0,6,3
+INV_45,Pijama de dos piezas de satín,Insumos,240.0,499.0,9,3
+INV_46,Pijama de dos piezas de algodón,Insumos,200.0,429.0,23,4
+INV_47,Conjunto deportivo (Top + Leggings),Insumos,290.0,599.0,14,3
+INV_48,Camiseta interior de tirantes blanca,Insumos,70.0,159.0,24,8
+INV_49,Tenis casuales de lona blancos,Insumos,350.0,749.0,8,3
+INV_50,Sandalias playeras de descanso,Insumos,110.0,249.0,15,4
+INV_51,Terminal Punto de Venta (TPV) Todo en Uno (Pantalla + CPU),Equipos,6500.0,0.0,2,1
+INV_52,Impresora térmica de tickets y recibos,Equipos,1200.0,0.0,2,1
+INV_53,Escáner lector de códigos de barra USB/Bluetooth,Equipos,600.0,0.0,3,1
+INV_54,Cajón de dinero de apertura automática con llave,Equipos,850.0,0.0,2,1
+INV_55,Impresora térmica para etiquetas de código de barras,Equipos,1800.0,0.0,3,1
+INV_56,Vaporera vertical profesional para prendas (Steamers),Equipos,2200.0,0.0,2,1
+INV_57,Rollos de etiquetas térmicas adhesivas (Paquete con 5),Papelería,180.0,0.0,6,2
+INV_58,Rollos de papel térmico para tickets de 80mm (Caja con 10),Papelería,150.0,0.0,4,1
+INV_59,Pistola etiquetadora de precios con sujetadores plásticos,Papelería,120.0,0.0,3,1
+INV_60,Libreta de notas de remisión / recibos foliados (Block x3),Papelería,45.0,0.0,5,2
+INV_61,Marcadores permanentes negros de punta fina (Paquete x4),Papelería,60.0,0.0,4,1
+INV_62,Rodillos quitapelusa adhesivos para ropa (Paquete con 3),Limpieza,110.0,0.0,6,2
+INV_63,Líquido limpiador de vidrios y espejos (Bidón de 5L),Limpieza,130.0,0.0,3,1
+INV_64,Paños de microfibra premium para polvo y vitrinas (Pack x6),Limpieza,95.0,0.0,4,1
+INV_65,"Detergente desinfectante para pisos (Aroma suave, 5L)",Limpieza,120.0,0.0,3,1
+INV_66,Plumero de microfibra extensible para racks y techos,Limpieza,85.0,0.0,2,1

@@ -1,0 +1,10 @@
+id_usuario,nombre_usuario,password,nombre_real,rol,estado_cuenta,puesto
+4322,Administrador,1234,Amy Fuentes Sánchez,jefe,True,
+4323,Gerente,2345,Alejandro Torres Lara,gerente,True,
+4324,Supervisor 1,3456,Camila Rocha Palacios,supervisor,True,Cajas
+4325,Supervisor 2,4567,Diego Peralta Osuna,supervisor,True,Piso de venta
+4326,Supervisor 3,5678,Gabriel Delgado Ortiz,supervisor,True,Almacen
+4327,Empleado 1,6789,Natalia Solís Becerra,empleado,True,Vendedor
+4328,Empleado 2,7890,Ariel Salgado Méndez,empleado,True,Cajero
+4329,Empleado 3,8901,Carlos Mendoza Fuentes,empleado,True,Almacenista
+4330,Empleado 4,9012,Diego Peralta Osuna,empleado,True,Limpieza
